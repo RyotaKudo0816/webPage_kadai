@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="レイヤー_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 858.9 226.77" style="enable-background:new 0 0 858.9 226.77;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#E60012;}
+	.st2{font-family:'BrushScriptMT';}
+	.st3{font-size:184.0197px;}
+	.st4{fill:#E60012;stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+	.st5{stroke:#000000;stroke-width:7;stroke-miterlimit:10;}
+</style>
+<g>
+	<rect x="110.8" y="-6.86" class="st0" width="640.62" height="195.85"/>
+	<text transform="matrix(0.6843 0 0 1 110.7974 143.2061)" class="st1 st2 st3">GrillYURITO</text>
+	<g>
+		<polygon class="st1" points="75.44,97.2 74.4,98.09 65.02,106.02 65.02,88.42 74.75,96.63 		"/>
+		<polygon class="st1" points="65.02,106.02 12.89,150 12.89,44.43 65.02,88.42 		"/>
+		<polygon class="st1" points="74.4,98.09 127.59,142.98 65.02,195.77 65.02,106.02 		"/>
+		<polygon class="st1" points="74.75,96.63 65.02,88.42 65.02,-0.71 127.59,52.05 		"/>
+		<polygon class="st1" points="74.75,96.63 73.71,97.52 65.02,104.85 65.02,88.42 		"/>
+		<polygon class="st1" points="74.4,98.09 65.02,106.02 65.02,90.18 73.71,97.52 		"/>
+	</g>
+	<line class="st1" x1="89.36" y1="188.99" x2="751.42" y2="136.21"/>
+	<line class="st4" x1="72.63" y1="199.89" x2="803.7" y2="122.48"/>
+</g>
+<g>
+	<rect x="104.7" y="-6.86" class="st0" width="640.62" height="195.85"/>
+	<text transform="matrix(0.6843 0 0 1 104.7036 143.2061)" class="st2 st3">GrillYURITO</text>
+	<g>
+		<polygon points="69.35,97.2 68.3,98.09 58.92,106.02 58.92,88.42 68.66,96.63 		"/>
+		<polygon points="58.92,106.02 6.8,150 6.8,44.43 58.92,88.42 		"/>
+		<polygon points="68.3,98.09 121.49,142.98 58.92,195.77 58.92,106.02 		"/>
+		<polygon points="68.66,96.63 58.92,88.42 58.92,-0.71 121.49,52.05 		"/>
+		<polygon points="68.66,96.63 67.61,97.52 58.92,104.85 58.92,88.42 		"/>
+		<polygon points="68.3,98.09 58.92,106.02 58.92,90.18 67.61,97.52 		"/>
+	</g>
+	<line class="st0" x1="83.27" y1="188.99" x2="745.33" y2="136.21"/>
+	<line class="st5" x1="66.53" y1="199.89" x2="797.61" y2="122.48"/>
+</g>
+</svg>
