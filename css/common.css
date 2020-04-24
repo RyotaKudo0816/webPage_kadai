@@ -9,6 +9,8 @@ body{
     font-family: "メイリオ",Meirio,"ヒラギノ角ゴ　Pro W3","Hiragino Kaku Gothic Pro","MS Pゴシック","MS PGothic",sans-serif;
     font-size: 87.5%;
     line-height: 1.5em;
+    background-color:#000000;
+    color: #FFFFFF;
 }
 p{
     margin: 0 0 20px 0;

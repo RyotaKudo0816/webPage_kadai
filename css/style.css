@@ -29,7 +29,7 @@ nav ul li a:hover{
 footer p {
     margin-bottom: 0;
     padding: 14px 0 14px 0;
-    background-image: url(../images/5.svg);
+    background-image: url(../images/bg_footer.png);
     background-repeat: repeat-x;
     text-align: center;
 }
