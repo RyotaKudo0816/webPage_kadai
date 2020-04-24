@@ -1,5 +1,4 @@
 @charset "utf8";
-
 /*基本レイアウト　ここから↓*/
 @import url(common.css);
 header {
@@ -44,7 +43,6 @@ footer small {
     font-size: 162%;
 }
 /*基本レイアウト　ここまで↑*/
-
 /*「施設のご案内」ページ　ここから↓*/
 img.float_right {
     margin-bottom: 20px;
@@ -58,7 +56,6 @@ article ul {
     list-style-type: circle;
 }
 /*「施設のご案内」ページ　ここまで↑*/
-
 /*「料金プラン」ページ　ここから↓*/
 table {
     width: 568px;
@@ -69,13 +66,13 @@ table caption {
     text-align: left;
 }
 table tj, table td {
-    border: 1px solid #7aa7a2;
+    border: 1px solid #7AA7A2;
     padding: 10px;
     width: 190px;
     text-align: center;
 }
 table th {
-    background-color: #cce8e4;
+    background-color: #CCE8E4;
 }
 table .price {
     width: 125px;
@@ -84,13 +81,12 @@ table td .price {
     text-align: right;
 }
 /*「料金プラン　ここまで↑*/
-
 /*「ご意見・ご要望」　ページ　ここから↓*/
 form {
     margin-top: 30px;　
 }
 input.textfield, textarea {
-    border: 1px solid #d1ccb4;
+    border: 1px solid #D1CCB4;
 }
 input.textfield {
     width: 250px;
@@ -99,5 +95,26 @@ textarea {
     width: 500px;
     height: 170px;
     overflow-y: scroll;
+}
+.image_right {
+    margin-bottom: 25px;
+    margin-left: 25px;
+    float: right;
+}
+.float_clear {
+    clear: both;
+}
+article ul {
+    list-style-type: circle;
+}
+.pride_title{
+     font-size: 100px;
+}
+.pride{
+    font-size: 50px;
+    text-align: center;
+}
+.p{
+    font-size: 20px;
 }
 /*「ご意見・ご要望」　ページ　ここまで↑*/
