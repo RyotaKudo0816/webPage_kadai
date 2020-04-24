@@ -100,4 +100,25 @@ textarea {
     height: 170px;
     overflow-y: scroll;
 }
+.image_right {
+    margin-bottom: 25px;
+    margin-left: 25px;
+    float: right;
+}
+.float_clear {
+    clear: both;
+}
+article ul {
+    list-style-type: circle;
+}
+.pride_title{
+     font-size: 100px;
+}
+.pride{
+    font-size: 50px;
+    text-align: center;
+}
+.p{
+    font-size: 20px;
+}
 /*「ご意見・ご要望」　ページ　ここまで↑*/
